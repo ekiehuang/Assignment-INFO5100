@@ -1,3 +1,4 @@
 # Assignment-INFO5100
-Hi everyone,
-This is Yanjing Huang, you can also call me Ekie.
+Hi,
+I'm Yanjing Huang, you can also call me Ekie.
+This folder is for INFO5100 
