@@ -140,3 +140,13 @@ class Employee {
         return ic;
         }
 }
+
+//Extra credit
+Answer:
+Your Answer: The reason is when calling swap function with a and b, 
+it’s the references of a and b get passed in. Inside the function,
+x and y are pointing to Employee a and b respectively. 
+By reassigning or swapping new reference to x and y,
+we are changing x to point to b and y to point to a,
+but the reassigning will not be reflected outside the clause of the function.
+Outside the function, a is still pointing to a and b is still pointing to b.
